@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background: #706fd3;
+  color: azure;
+  padding: 10px;
+  text-align: center;
+}
+h1 {
+  font-size: 35px;
+}
+nav {
+  background: #2c2c54;
+  text-align: center;
+}
+.menu li {
+  display: inline-block;
+}
+.menu a {
+  color: #fff;
+  font-size: 15px;
+  padding: 10px 15px;
+  display: block;
+}
+section {
+  background: #f7f1e3;
+  width: 60%;
+  float: left;
+  padding: 10px;
+}
+aside {
+  background: #d1ccc0;
+  float: right;
+  width: 40%;
+  padding-left: 25px;
+}
+#contact {
+  width: 100%;
+  background: #ffb142;
+}
+label {
+  color: #fff;
+  font-size: 16px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+input,
+textarea {
+  background: #fff;
+  border: 0;
+  padding: 10px;
+  width: 100%;
+}
+input[type="submit"] {
+  width: 250px;
+  background: #ff5252;
+  color: #fff;
+  font-size: 20px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+#map{
+  background: #f7f1e3;
+  width: 100%;
+}
+iframe{
+  width: 100%;
+  border: 0;
+  height: 200px;
+}
+footer {
+  background: #474787;
+  color: #fff;
+  width: 100%;
+  overflow: hidden;
+  text-align: center;
+  padding: 10px;
+}

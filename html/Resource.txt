@@ -1,0 +1,63 @@
+Build Responsive Websites with Modern HTML & CSS with Sass
+https://www.udemy.com/course/responsive-websites-modern-html-css-with-sass/?couponCode=JUNEGIFT
+
+
+Web Development Roadmap - A Practical Guide
+https://www.youtube.com/watch?v=M0fBOGumKxs
+
+
+Download Visual Studio Code
+https://code.visualstudio.com/download
+
+
+VS Code Settings
+https://github.com/shovoalways/Visual-Studio-Code-Customization
+
+
+Why live server now working?
+https://www.youtube.com/watch?v=-p2DbWDe_zQ
+
+
+The art of good code comments
+https://www.youtube.com/watch?v=r_ZF2FN3-UM
+
+
+CSS Flexbox Crash Course for Absolute Beginners
+https://www.youtube.com/watch?v=IiGSaxFyUKM
+
+
+flatuicolors
+https://flatuicolors.com/
+
+
+
+
+Time Stamp
+00:00 Intro
+01:11 Setup Web Dev Environment
+04:30 Create First HTML File 
+05:15 Dev Tool overview  
+09:05 Doctype declaration 
+10:17 HTML Basic
+11:58 HTML Documents
+14:48 Headings
+16:44 Paragraphs
+17:17 Styles
+18:31 Attributes
+22:57 Text Formatting
+25:12 Comments 
+27:04 Colors
+29:11 Hyperlinks
+30:48 Images
+32:26 Favicon
+33:52 Table
+38:10 HTML list
+40:46 Block and Inline Elements
+42:06 ID & class Attribute
+46:57 HTML Iframes
+50:37 JavaScript
+53:06 HTML File Paths
+53:41 HTML Validation
+54:48 Meta Tag
+1:00:27 Website Layout
+1:09:46 HTML form
